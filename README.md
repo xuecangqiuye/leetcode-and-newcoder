@@ -1,2 +1,2 @@
 # leetcode-and-newcoder
-leetcode和newcoder刷题
+leetcode和newcoder刷题记录
